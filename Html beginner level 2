@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hindi beginner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #18b5c0;
+            color: #771556;
+            text-align: center;
+            padding: 100px;
+        }
+        h1 {
+            color: #034;
+        }
+        p {
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <h1>नमस्ते github!</h1>
+    <p>यह मेरा पहला हिंदी वेब पेज है।</p>
+</body>
+</html>
+
